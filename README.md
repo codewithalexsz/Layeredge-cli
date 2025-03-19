@@ -11,4 +11,4 @@ Installation
 Run the Single Command
 Execute this command in your terminal:
 
-curl -sL https://raw.githubusercontent.com/codewithalexsz/Layeredge-cli/refs/heads/layeredge-cli/layeredge.sh | bash
+curl -sL https://raw.githubusercontent.com/codewithalexsz/Layeredge-cli/layeredgecli.sh | bash
